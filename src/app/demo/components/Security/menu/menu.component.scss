@@ -1,0 +1,17 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+/* mantenimiento-menu.component.css */
+.card-header {
+    background-color: #007bff; /* Azul */
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #f8d7da; /* Rojo claro */
+}
+
+.table-bordered th, .table-bordered td {
+    border: 2px solid #007bff; /* Borde azul */
+}
+
+.table-bordered thead th {
+    border-bottom: 4px solid #0056b3; /* Borde inferior azul oscuro */
+}
